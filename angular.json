@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Desktop"
+    }
+  },
+  "defaultProject": "Desktop",
+  "cli": {
+    "analytics": "28b9dcf8-e21a-41c0-ada6-97bbd47b72f7"
+  }
 }
